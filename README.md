@@ -11,20 +11,3 @@
 - [Reflections](#reflections)
 
 # Your mission
-sdasssssssssssssssss
-sdffffffffffffffff
-sfwagddddddddddddddd
-sdasssssssssssssssss
-sdffffffffffffffff
-sfwagddddddddddddddd
-sdasssssssssssssssss
-sdffffffffffffffff
-sfwagddddddddddddddd
-sdasssssssssssssssss
-sdffffffffffffffff
-sfwagddddddddddddddd
-sdasssssssssssssssss
-sdffffffffffffffff
-sfwagddddddddddddddd
-
-# Headings
